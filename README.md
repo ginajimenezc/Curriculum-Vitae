@@ -1,20 +1,20 @@
 # Curriculum-Vitae
-GINA MARGARITA JIMENEZ CHOLES
-![](https://github.com/ginajimenezc/Curriculum-Vitae/foto.jpg)
+#GINA MARGARITA JIMENEZ CHOLES
+![](https://github.com/ginajimenezc/Curriculum-Vitae/blob/19c05f9ac4b1eb14c7076442e162e7a4bf96d347/foto.jpg)
 
-Celular 3217709893
+#Celular 3217709893
 
-Whatsapp 3217709893
+#Whatsapp 3217709893
 
-e-mail gina.jimenez.c@hotmail.com
+#e-mail gina.jimenez.c@hotmail.com
 
-Perfil Profesional
+#Perfil Profesional
 
 Ingeniera Electrónica, especialista en Instrumentación Electrónica,  con conocimientos en Electrónica Básica, Electrónica Industrial, Instrumentación. Con capacitación docente, soy una persona alegre y con buena disposición para el trabajo en equipo.
 
 Educación
 
-Formación Académica
+#Formación Académica
 
 • Especialización en Instrumentación Electrónica, Universidad Santo Tomás
 
@@ -34,7 +34,7 @@ Actualizaciones y Formación Continua:
 
 • Mantenimiento, instalación de Computadores Corporación educativa del Caribe 1999 – 1999
 
-Experiencia Profesional
+#Experiencia Profesional
 
 Octubre 2015 : Sodimac Colombia
 
