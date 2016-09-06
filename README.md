@@ -1,5 +1,6 @@
 # Curriculum-Vitae
 GINA MARGARITA JIMENEZ CHOLES
+![](https://github.com/ginajimenezc/Curriculum-Vitae/foto.jpg)
 
 Celular 3217709893
 
